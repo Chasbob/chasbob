@@ -1,6 +1,3 @@
-### $ whoami
-
-
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem.chasbob.vercel.app/api/spotify" alt="chasbob Spotify Playing" width="350" />](https://open.spotify.com/user/charlie2026)
