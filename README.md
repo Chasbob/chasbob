@@ -5,3 +5,5 @@
 ### GitHub Stats :coffee::computer:
 
 [![Charlie's github stats](https://github-readme-stats-six-tau.vercel.app/api?username=chasbob)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:activity-->
