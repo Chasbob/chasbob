@@ -7,9 +7,9 @@
 [![Charlie's github stats](https://github-readme-stats-six-tau.vercel.app/api?username=chasbob)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Chasbob/personal-site/pull/22) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
-2. 🎉 Merged PR [#21](https://github.com/Chasbob/personal-site/pull/21) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
-3. 💪 Opened PR [#21](https://github.com/Chasbob/personal-site/pull/21) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
-4. 💪 Opened PR [#20](https://github.com/Chasbob/personal-site/pull/20) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
-5. 💪 Opened PR [#19](https://github.com/Chasbob/personal-site/pull/19) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
+1. 💪 Opened PR [#1](https://github.com/KieranOM/rp-warehouse/pull/1) in [KieranOM/rp-warehouse](https://github.com/KieranOM/rp-warehouse)
+2. 💪 Opened PR [#22](https://github.com/Chasbob/personal-site/pull/22) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
+3. 🎉 Merged PR [#21](https://github.com/Chasbob/personal-site/pull/21) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
+4. 💪 Opened PR [#21](https://github.com/Chasbob/personal-site/pull/21) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
+5. 💪 Opened PR [#20](https://github.com/Chasbob/personal-site/pull/20) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
 <!--END_SECTION:activity-->
