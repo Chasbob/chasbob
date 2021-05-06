@@ -7,9 +7,9 @@
 [![Charlie's github stats](https://github-readme-stats-six-tau.vercel.app/api?username=chasbob)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Chasbob/dotfiles/pull/7) in [Chasbob/dotfiles](https://github.com/Chasbob/dotfiles)
-2. ❌ Closed PR [#8](https://github.com/Chasbob/dotfiles/pull/8) in [Chasbob/dotfiles](https://github.com/Chasbob/dotfiles)
-3. 💪 Opened PR [#8](https://github.com/Chasbob/dotfiles/pull/8) in [Chasbob/dotfiles](https://github.com/Chasbob/dotfiles)
-4. 💪 Opened PR [#7](https://github.com/Chasbob/dotfiles/pull/7) in [Chasbob/dotfiles](https://github.com/Chasbob/dotfiles)
-5. ❗️ Closed issue [#16](https://github.com/Chasbob/personal-site/issues/16) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
+1. 🎉 Merged PR [#26](https://github.com/Chasbob/personal-site/pull/26) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
+2. 💪 Opened PR [#26](https://github.com/Chasbob/personal-site/pull/26) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
+3. 🎉 Merged PR [#7](https://github.com/Chasbob/dotfiles/pull/7) in [Chasbob/dotfiles](https://github.com/Chasbob/dotfiles)
+4. ❌ Closed PR [#8](https://github.com/Chasbob/dotfiles/pull/8) in [Chasbob/dotfiles](https://github.com/Chasbob/dotfiles)
+5. 💪 Opened PR [#8](https://github.com/Chasbob/dotfiles/pull/8) in [Chasbob/dotfiles](https://github.com/Chasbob/dotfiles)
 <!--END_SECTION:activity-->
