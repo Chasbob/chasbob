@@ -4,7 +4,7 @@
 
 ### GitHub Stats :coffee::computer:
 
-[![Charlie's github stats](https://github-readme-stats-six-tau.vercel.app/api?username=chasbob)](https://github.com/anuraghazra/github-readme-stats)
+[![Charlie's github stats](https://github-readme-stats-six-tau.vercel.app/api?username=chasbob&count_private=true&hide_rank=true&hide=stars&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#26](https://github.com/Chasbob/personal-site/pull/26) in [Chasbob/personal-site](https://github.com/Chasbob/personal-site)
